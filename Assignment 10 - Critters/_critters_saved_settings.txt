@@ -1,0 +1,13 @@
+#CSE 142 Critters saved settings
+#Wed Mar 18 11:29:13 PDT 2020
+Height=50
+Number\ of\ each\ critter=25
+Network\ features=true
+Vulture=true
+Bird=true
+Lion=true
+Debug\ output=false
+Ant=true
+Width=60
+Hippo=true
+Stone=true
