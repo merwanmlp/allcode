@@ -1,0 +1,62 @@
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (rock) crushes Computer (scissors)
+Battle again (yes/no)? y
+
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (rock) crushes Computer (scissors)
+Battle again (yes/no)? Y
+
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (Spock) vaporizes User (rock)
+Battle again (yes/no)? YUP!
+
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (Spock) vaporizes User (rock)
+Battle again (yes/no)? yes
+
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (paper) covers User (rock)
+Battle again (yes/no)? yes indeedy
+
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (rock) ties Computer (rock)
+Battle again (yes/no)? nope
+
+             rock    paper scissors   lizard    Spock
+         -------- -------- -------- -------- --------
+Computer        1        1        2        0        2
+    User        6        0        0        0        0
+
+The computer won 3 times,
+the user won 2 times,
+and they tied 1 time.

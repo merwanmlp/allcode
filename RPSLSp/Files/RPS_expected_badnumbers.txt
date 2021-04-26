@@ -1,0 +1,25 @@
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): a
+Input is not valid, you need to enter a number.
+Choose your weapon (1-5): a b
+Input is not valid, you need to enter a number.
+Choose your weapon (1-5): 0
+Input is not valid, you need to enter a number between 1 and 5.
+Choose your weapon (1-5): 6
+Input is not valid, you need to enter a number between 1 and 5.
+Choose your weapon (1-5): 1
+User (rock) crushes Computer (scissors)
+Battle again (yes/no)? n
+
+             rock    paper scissors   lizard    Spock
+         -------- -------- -------- -------- --------
+Computer        0        0        1        0        0
+    User        1        0        0        0        0
+
+The computer won 0 times,
+the user won 1 time,
+and they tied 0 times.

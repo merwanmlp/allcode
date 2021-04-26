@@ -1,0 +1,134 @@
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (big rock) crushes Computer (scissors)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (big rock) crushes Computer (scissors)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (Spock) vaporizes User (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (Spock) vaporizes User (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (paper) covers User (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (big rock) ties Computer (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (Spock) vaporizes User (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+Computer (paper) covers User (big rock)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+Computer (scissors) cuts up User (paper)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+User (paper) ties Computer (paper)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+User (paper) ties Computer (paper)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+Computer (lizard) eats User (paper)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+Computer (scissors) cuts up User (paper)
+Battle again (yes/no)? y
+
+1. big rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 2
+User (paper) covers Computer (big rock)
+Battle again (yes/no)? n
+
+         big rock    paper scissors   lizard    Spock
+         -------- -------- -------- -------- --------
+Computer        2        4        4        1        3
+    User        8        6        0        0        0
+
+The computer won 8 times,
+the user won 3 times,
+and they tied 3 times.

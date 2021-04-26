@@ -1,0 +1,20 @@
+File not found. Try again: batt
+File not found. Try again: battles
+File not found. Try again: battles.txt
+1. rock
+2. paper
+3. scissors
+4. lizard
+5. Spock
+Choose your weapon (1-5): 1
+User (rock) crushes Computer (scissors)
+Battle again (yes/no)? n
+
+             rock    paper scissors   lizard    Spock
+         -------- -------- -------- -------- --------
+Computer        0        0        1        0        0
+    User        1        0        0        0        0
+
+The computer won 0 times,
+the user won 1 time,
+and they tied 0 times.

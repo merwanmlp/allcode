@@ -1,0 +1,2 @@
+Missing some battle information in the file.
+There is an error in battles_errormissingbattles.txt, ending game.

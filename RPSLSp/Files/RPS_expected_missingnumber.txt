@@ -1,0 +1,2 @@
+Missing number of choices.
+There is an error in battles_errormissingnumber.txt, ending game.
